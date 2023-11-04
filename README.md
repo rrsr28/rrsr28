@@ -20,4 +20,4 @@ Hi, I'm rrsr28, and I'm currently a data science student with a strong passion f
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=rrsr28&theme=dark&hide_border=true" width = 400>
 </p>
 
-👨‍🚀 My Profile has been visited by &nbsp ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo-name) explorers.
+👨‍🚀 Beam me up, Scotty! My profile has been visited by ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo-name) intergalactic explorers.
