@@ -12,3 +12,8 @@ Hi, I'm rrsr28, and I'm currently a data science student with a strong passion f
 - 👨‍🚀 Been diving into the realms of Deep Learning and Artificial Intelligence, striving to keep up with the latest advancements.
  
 - 👯 Believes in power of open-source
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Lordvarun23&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Lordvarun23&theme=dark&hide_border=true" width = 400>
+</p>
