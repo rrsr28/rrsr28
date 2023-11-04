@@ -13,7 +13,7 @@ Hi, I'm rrsr28, and I'm currently a data science student with a strong passion f
  
 - 👯 Believes in power of open-source
 
-<br><hr><br>
+<br><hr>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo-name)
 
