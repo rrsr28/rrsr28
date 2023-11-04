@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 📊 Data Science Student | 🤖 Machine Learning Enthusiast | 💻 Python Coder
+----------------------------------------------------------------------------
 
 Hi, I'm rrsr28, and I'm currently a data science student with a strong passion for all things data-related.
 
