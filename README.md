@@ -15,9 +15,7 @@ Hi, I'm rrsr28, and I'm currently a data science student with a strong passion f
 
 <br><hr><br>
 
-<p align="center">
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo-name)
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo-name)
 
 <br>
 
